@@ -25,3 +25,8 @@ if (orderHasShipped === true) {
 console.log ("The order did not ship");
 }
 // question 5
+
+
+for (var number = 7; number <= 13; number++) {
+    console.log(number)
+}
