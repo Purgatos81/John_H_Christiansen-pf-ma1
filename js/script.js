@@ -17,5 +17,11 @@ console.log(fullName);
 
 // question 4
 
+var orderHasShipped = false; 
 
+if (orderHasShipped === true) {
+    console.log ("The order shipped");
+} else {
+console.log ("The order did not ship");
+}
 // question 5
