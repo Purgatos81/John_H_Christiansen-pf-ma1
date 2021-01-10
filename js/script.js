@@ -14,6 +14,10 @@ console.log(fullName);
 
 // question 3
 
+var checkFrog = "frog";
+
+var typeOfFrog = typeof(checkFrog);
+console.log("The type of frog is " + typeOfFrog);
 
 // question 4
 
@@ -25,7 +29,6 @@ if (orderHasShipped === true) {
 console.log ("The order did not ship");
 }
 // question 5
-
 
 for (var number = 7; number <= 13; number++) {
     console.log(number)
